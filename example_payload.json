@@ -1,0 +1,87 @@
+{
+    "action_ts": "1496786172.278288",
+    "actions": [{
+        "name": "lead_story",
+        "type": "button",
+        "value": "True"
+    }],
+    "attachment_id": "1",
+    "callback_id": "button_test",
+    "channel": {
+        "id": "C5PHLJHM1",
+        "name": "dev"
+    },
+    "is_app_unfurl": false,
+    "message_ts": "1496785732.689504",
+    "is_app_unfurl": false,                                                                                                                                                 [32/399]
+    "message_ts": "1496785732.689504",
+    "original_message": {
+        "attachments": [{
+            "actions": [
+            {
+                "id": "1",
+                "name": "lead_story",
+                "style": "danger",
+                "text": "☐ Lead",
+                "type": "button",
+                "value": "True"
+            },
+            {
+                "id": "2",
+                "name": "head_deck",
+                "style": "danger",
+                "text": "☐ Head Deck",
+                "type": "button",
+                "value": "True"
+            },
+            {
+                "id": "3",
+                "name": "sidebar",
+                "style": "danger",
+                "text": "☐ Side Bar",
+                "type": "button",
+                "value": "True"
+            }],
+            "callback_id": "button_test",
+            "fallback": "Robots seen as boon to world",
+            "fields": [
+            {
+                "short": false,
+                "title": "",
+                "value": "On Feb. 26, 1928, the Los Angeles Times carried an article by R. J. Wensley, credited as the \"inventor of the Mechanical Man,\" touting the potential for robotics to free humanity of the drudgery of work."},
+            {
+                "short": true,
+                "title": "Slug",
+                "value": "la-robots-seen-as-boon-to-world"},
+            {
+                "short": true,
+                "title": "Edit",
+                "value": "<https://example.com/edit/slug|Link>"
+            }],
+            "id": 1,
+            "thumb_height": 258,
+            "id": 1,
+            "thumb_height": 258,
+            "thumb_url": "http://www.trbimg.com/img-59372291/turbine/la-robots-seen-as-boon-to-world-20170606/600",
+            "thumb_width": 246,
+            "title": "<http://documents.latimes.com/robots-seen-boon-world/|Robots seen as boon to world>"
+        }],
+       "bot_id": "B5PG978H0",
+       "icons": {"image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-06-06/194502326055_48.png"},
+       "subtype": "bot_message",
+       "text": "",
+       "ts": "1496785732.689504",
+       "type": "message",
+       "username": "LIVE"
+   },
+    "response_url": "https://hooks.slack.com/actions/T0BF2G7A6/194531579271/cftuHgiUQa5zYjyVcu2qA4YP",
+    "team": {
+        "domain": "latimes",
+        "id": "00000000"
+    },
+    "token": "00000000",
+    "user": {
+        "id":"00000000",
+        "name": "andrewbriz"
+    }
+}
