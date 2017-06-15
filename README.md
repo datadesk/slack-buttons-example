@@ -1,6 +1,6 @@
 # Slack Buttons
 
-A Flask app to document and test Slack's interative messages.
+A Flask app to document and test Slack's interactive messages.
 
 ## Getting Started
 
