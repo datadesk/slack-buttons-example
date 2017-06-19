@@ -2,6 +2,9 @@
 
 A Flask app to document and test Slack's interactive messages.
 
+## Slack Buttons Tutorial
+Check out our [Source article](https://source.opennews.org/articles/slack-buttons/) explaining how we use Slack buttons in our newsroom and how you can make your own.
+
 ## Getting Started
 
 Create a virtualenv to store the codebase.
