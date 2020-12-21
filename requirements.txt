@@ -8,6 +8,6 @@ Jinja2==2.9.6
 MarkupSafe==1.0
 pkg-resources==0.0.0
 pyslack==0.3.0
-requests==2.17.3
+requests==2.20.0
 urllib3==1.21.1
 Werkzeug==0.12.2
