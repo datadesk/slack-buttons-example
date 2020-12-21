@@ -4,7 +4,7 @@ click==6.7
 Flask==0.12.2
 idna==2.5
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.10.1
 MarkupSafe==1.0
 pkg-resources==0.0.0
 pyslack==0.3.0
